@@ -1,9 +1,9 @@
 import { StyleSheet } from "react-native"
 
 export const globalOptions = {
-  name: "first-module-demo-44243",
-  url: "https://first-module-demo-44243.botics.co",
-  api: "https://first-module-demo-44243.botics.co/api/v1",
+  name: "demo",
+  url: "https://demo.botics.co",
+  api: "https://demo.botics.co/api/v1",
   screenOptions: {
     headerShown: false
   }

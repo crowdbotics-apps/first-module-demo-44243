@@ -1,4 +1,4 @@
-# first_module_demo_44243
+# demo
 
 Welcome to your new Crowdbotics app.
 
@@ -38,7 +38,7 @@ As a result, Crowdbotics can generate new applications automatically in a standa
 
 ## Project Description
 
-This react_native application was built with Crowdbotics www.crowdbotics.com
+
 
 ## Project Structure
 
